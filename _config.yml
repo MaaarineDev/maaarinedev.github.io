@@ -1,7 +1,0 @@
-theme: minima
-name: MaaarineDev Site
-description: Not important
-appdomain: https://maaarinedev.github.io
-
-gem "github-pages", group: :jekyll_plugins
-#gem "webrick": "~> 1.8"
