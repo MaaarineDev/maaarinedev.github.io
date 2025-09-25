@@ -1,0 +1,18 @@
+/* homepagestyle.css */
+
+body {
+    background-color: #2c2c2c;
+    color: #fff;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a, h1, h2, h3, h4, h5, h6, p, span, li, td, th, label, input, button {
+    color: #fff;
+    text-align: center;
+}
+
+::selection {
+    background: #444;
+    color: #fff;
+}
